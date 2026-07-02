@@ -6,12 +6,16 @@ Pheat is a large-scale pan-hepatic disease single-cell transcriptomic analysis p
 - 255 scRNA-seq datasets
 - 624,215 T cells
 
-The dataset covers a broad spectrum of hepatic diseases, including:
-- Hepatitis (Hepatitis B, Hepatitis C, alcohol-associated hepatitis, metabolic dysfunction-associated steatohepatitis)
+The dataset covers a broad spectrum of **hepatic diseases**, including:
+- Hepatitis 
+  + Hepatitis B
+  + Hepatitis C
+  + alcohol-associated hepatitis
+  + metabolic dysfunction-associated steatohepatitis
 - Cirrhosis
 - Hepatocellular carcinoma (HCC)
 
-Pheat enables users to investigate gene expression patterns across multiple T-cell populations derived from liver tissues and peripheral blood samples. The database contains the following major T-cell populations:
+Pheat enables users to investigate gene expression patterns across multiple T-cell populations derived from liver tissues and peripheral blood samples. The database contains the following major **T-cell populations**:
 - CD8<sup>+</sup> T Cells
   + Naïve cells (Tn)
   + Effector-KLRG1 cells (Teff<sup>KLRG1</sup>)
