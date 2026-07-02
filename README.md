@@ -85,8 +85,7 @@ Pheat enables users to investigate gene expression patterns across multiple T-ce
   . If the server starts successfully, the Pheat homepage will be displayed.
 
 ## How to use Pheat
- - Tutorials for Pheat
- - Tutorials for CAFU: https://github.com/cma2015/CAFU/blob/master/Tutorials/User_manual.md
+ - Tutorials for Pheat: https://github.com/chenzhuod/Pheat/blob/main/Tutorials/User_manual.md
 
 ## News and updates
 ### Pheat released on Nov 17, 2025
