@@ -2,7 +2,7 @@
 
 ## Overview
 Pheat is a large-scale pan-hepatic disease single-cell transcriptomic analysis platform designed for exploring T-cell heterogeneity across diverse hepatic diseases.The platform was developed based on an integrated single-cell RNA sequencing (scRNA-seq) atlas comprising:
-- 138 liver disease patients
+- 139 liver disease patients
 - 255 scRNA-seq datasets
 - 624,215 T cells
 
