@@ -56,7 +56,7 @@ Pheat enables users to investigate gene expression patterns across multiple T-ce
   + Docker Engine ≥ 20.10
   + Docker Desktop (Windows/macOS)
 - Download Pheat  
-  Download the Pheat Docker image package:
+  Download the *Pheat Docker* image package:
   [Pheat_Project](https://pan.baidu.com/s/16E2awj7e1nQl_4DbApRJVg?pwd=vtb5&_at_=1763425563700)
 - Install Docker  
   Download and install Docker from: [Docker installation](https://docs.docker.com/get-docker/)
