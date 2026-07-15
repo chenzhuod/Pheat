@@ -60,7 +60,8 @@ Pheat enables users to investigate gene expression patterns across multiple T-ce
   [Pheat_Project](https://pan.baidu.com/s/16E2awj7e1nQl_4DbApRJVg?pwd=vtb5&_at_=1763425563700)
 - Install Docker  
   Download and install Docker from: [Docker installation](https://docs.docker.com/get-docker/)
-- Load the Docker Image  Import the Pheat image into Docker:
+- Load the Docker Image  
+  Import the Pheat image into Docker:
   ```bash
   docker load -i pheat.tar
   ```
