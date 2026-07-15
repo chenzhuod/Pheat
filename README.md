@@ -48,7 +48,7 @@ Pheat enables users to investigate gene expression patterns across multiple T-ce
 
 ## Installation
 - System Requirements
-- Pheat is distributed as a Docker image and can be deployed on:
+* Pheat is distributed as a Docker image and can be deployed on:
   + Linux
   + macOS
   + Windows (via Docker Desktop)
