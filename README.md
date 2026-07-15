@@ -48,7 +48,7 @@ Pheat enables users to investigate gene expression patterns across multiple T-ce
 
 ## Installation
 - System Requirements
-  Pheat is distributed as a Docker image and can be deployed on:
+- Pheat is distributed as a Docker image and can be deployed on:
   + Linux
   + macOS
   + Windows (via Docker Desktop)
@@ -56,17 +56,17 @@ Pheat enables users to investigate gene expression patterns across multiple T-ce
   + Docker Engine ≥ 20.10
   + Docker Desktop (Windows/macOS)
 - Download Pheat
-  Download the Pheat Docker image package:
+- Download the Pheat Docker image package:
   [Pheat_Project](https://pan.baidu.com/s/16E2awj7e1nQl_4DbApRJVg?pwd=vtb5&_at_=1763425563700)
 - Install Docker
-  Download and install Docker from: [Docker installation](https://docs.docker.com/get-docker/)
+- Download and install Docker from: [Docker installation](https://docs.docker.com/get-docker/)
 - Load the Docker Image
-  Import the Pheat image into Docker:
+- Import the Pheat image into Docker:
   ```bash
   docker load -i pheat.tar
   ```
 - Launch Pheat
-  Start a Pheat container:
+- Start a Pheat container:
   ```bash
   docker run -it \
     -e LANG=C.UTF-8 \
@@ -78,13 +78,13 @@ Pheat enables users to investigate gene expression patterns across multiple T-ce
   ./startup.sh
   ```
 - Import Data Files
-  Download data files from [rds files](https://pan.baidu.com/s/1AW8r3-Sdw_BTGxJYFPO0dw?pwd=5tmj),
+- Download data files from [rds files](https://pan.baidu.com/s/1AW8r3-Sdw_BTGxJYFPO0dw?pwd=5tmj),
   and then copy local rds files into the container:
   ```bash
   docker cp XX_cells.rds <container_id>:/home/galaxy/rds_files
   ```
 - Access the Web Interface
-  Open your browser and navigate to:
+- Open your browser and navigate to:
   http://localhost:8080/pheat/
   . If the server starts successfully, the Pheat homepage will be displayed.
 
