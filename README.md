@@ -47,8 +47,8 @@ Pheat enables users to investigate gene expression patterns across multiple T-ce
   + Effector Treg (eTreg)
 
 ## Installation
-- System Requirements
-* Pheat is distributed as a Docker image and can be deployed on:
+- System Requirements\n
+  Pheat is distributed as a Docker image and can be deployed on:
   + Linux
   + macOS
   + Windows (via Docker Desktop)
